@@ -44,7 +44,7 @@ Sliding puzzles are a timeless format, but every existing app locks you into sto
 
 ## 🫶 How to use it
 
-1. Open the [live game]file:///C:/Users/Admin/Documents/kids%20game/magic%20puzzle/index.html.
+1. Open the [live game]https://aditya201107.github.io/magic-puzzle/
 2. Tap **Change image** and pick any photo from your device (or play with the built-in default artwork).
 3. Choose Beginner, Advanced, or Expert and start sliding tiles into place.
 4. Stuck? Hold to peek at the full picture. Solve it to trigger the confetti celebration.
