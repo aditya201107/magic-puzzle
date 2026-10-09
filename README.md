@@ -12,7 +12,7 @@
 ![License](https://img.shields.io/badge/License-MIT-19151F?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Live-F59E0B?style=for-the-badge)
 
-[Live Demo]file:///C:/Users/Admin/Documents/kids%20game/magic%20puzzle/index.html · [Features](#-what-it-can-do) · [Quick Start](#-run-it-locally) · [How It Works](#-how-it-works)
+[Live Demo]https://aditya201107.github.io/magic-puzzle/ · [Features](#-what-it-can-do) · [Quick Start](#-run-it-locally) · [How It Works](#-how-it-works)
 
 </div>
 
